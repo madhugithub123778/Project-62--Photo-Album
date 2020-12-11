@@ -1,0 +1,48 @@
+body{
+background-color: blue;text-align: center
+}
+    
+}
+.container{
+text-align: center;
+    
+}
+img{
+width: 300px; height: 300px;    
+}
+#Grid{
+background-color: aquamarine;text-align: center;width: 100%;
+    height: 800px;}
+#Slide{
+background-color: plum;text-align:center;}
+#Slide img{
+width: 300px; height: 300px;}
+#Slide h2{
+font-size: 40px;font-family: cursive;color: navy;margin: 3px auto;}
+
+.carousel-indicators {
+    margin: 0px auto;
+    height: 0px;
+    background-color: black;
+}
+
+    .carousel-indicators ol {
+        width: 100%;color: black
+    }
+
+
+    .carousel-indicators li{
+        height: 7px !important;
+        
+        width: 100%;}
+
+#contact{
+background-color: lightblue;
+}
+
+.contact_1 h3{
+display: inline;}
+
+.contact_1{
+ text-decoration: none;
+}
